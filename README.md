@@ -1,6 +1,6 @@
 # AdvanceAgent
 
-**AdvanceAgent** 是一個基於 OpenAI SDK 核心開發的高階 AI Agent 框架。它繼承了 [IntimusAdvance](https://github.com/Xialai-Kulimi/IntimusAdvance) 的優點，並將 LLM 通訊層完全重寫為 OpenAI Chat Completion 協議，提供極致的靈活性與仿生記憶能力。
+**AdvanceAgent** 是一個基於 OpenAI SDK 核心開發的高階 AI Agent 框架。它將 LLM 通訊層完全重寫為 OpenAI Chat Completion 協議，提供極致的靈活性與仿生記憶能力。
 
 ## 🌟 核心特性
 

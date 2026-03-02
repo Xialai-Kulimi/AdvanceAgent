@@ -1,76 +1,21 @@
-# PolyForm Noncommercial License 1.0.0
+MIT License
 
-<https://polyformproject.org/licenses/noncommercial/1.0.0>
+Copyright (c) 2026 Kulimi
 
-## Acceptance
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-In order to get any license under these terms, you must agree
-to them as both strict obligations and conditions to all
-your licenses.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Copyright License
-
-The licensor grants you a non-exclusive, worldwide,
-royalty-free, transferable, non-sublicensable, fully paid-up
-license to reproduce and distribute the software, and to
-create, reproduce, and distribute daughter works of the
-software.
-
-## Patent License
-
-The licensor grants you a non-exclusive, worldwide,
-royalty-free, transferable, non-sublicensable, fully paid-up
-license under any patents they can license that are
-necessarily infringed by the software as delivered by the
-licensor to make, have made, use, sell, offer for sale, and
-import the software.
-
-## Noncommercial Limitation
-
-The licenses granted to you skip any use that is primarily
-intended for or directed toward commercial advantage or
-private monetary compensation.
-
-## Redistribution
-
-You may redistribute the software and daughter works under the
-same terms as these ones. If you do, you must include a copy
-of these terms, or a specific, hyperlink reference to them, as
-well as all copyright, patent, trademark, and attribution
-notices that come with the software.
-
-## Notices
-
-You may not remove any copyright, patent, trademark, or
-attribution notices from the software.
-
-## No Other Rights
-
-These terms do not imply any licenses for the licensor's
-trademarks, and do not limit any of the licensor's rights
-under copyright exceptions, like fair use.
-
-## No Warranty
-
-The software is provided as is, without any warranty. As far
-as the law allows, the licensor will not be liable for any
-damages related to the software or these terms, for any
-reason.
-
-## Termination
-
-If you violate these terms, your licenses from the licensor
-end immediately.
-
-## Definitions
-
-The "licensor" is the individual or entity offering these
-terms, and the "software" is the software the licensor
-makes available under these terms.
-
-"You" is the individual or entity taking a license, and your
-"licenses" are their permissions under these terms.
-
-"Daughter works" are new works derived from the software, such
-as software that includes some of it, or a translation into
-another language.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

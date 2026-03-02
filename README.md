@@ -62,5 +62,5 @@ for msg in agent.generate("記住，我最喜歡的顏色是祖母綠。"):
 
 ## 📜 授權協議
 
-本專案採用 **PolyForm Noncommercial License 1.0.0** 授權。
-**禁止用於任何商業目的。** 詳見 [LICENSE](LICENSE) 文件。
+本專案採用 **MIT License** 授權。
+你可以自由修改與使用，但請務必保留原作者的版權聲明與授權文件。詳見 [LICENSE](LICENSE) 文件。
